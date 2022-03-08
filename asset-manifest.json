@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wheather-react/static/css/main.bb9d2a0c.css",
+    "main.js": "/wheather-react/static/js/main.9a85e541.js",
+    "static/js/787.d89a1af2.chunk.js": "/wheather-react/static/js/787.d89a1af2.chunk.js",
+    "static/media/water4.mp4": "/wheather-react/static/media/water4.204282fce0a2ae1b1041.mp4",
+    "static/media/animal.mp4": "/wheather-react/static/media/animal.d5f980090496d1a80ada.mp4",
+    "static/media/space2.mp4": "/wheather-react/static/media/space2.07d40f53d7be5916f3e3.mp4",
+    "static/media/pic5.jpg": "/wheather-react/static/media/pic5.5045e0e870d8ff91e386.jpg",
+    "static/media/space.mp4": "/wheather-react/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/pic3.jpg": "/wheather-react/static/media/pic3.75967e9bdbc9e5e6fef4.jpg",
+    "static/media/pic6.jpg": "/wheather-react/static/media/pic6.d7fe7a9be3be33a0521c.jpg",
+    "static/media/pic11.jpg": "/wheather-react/static/media/pic11.ee6a050c230c4b20789c.jpg",
+    "static/media/pic1.jpg": "/wheather-react/static/media/pic1.53be22ed033e0350b6f3.jpg",
+    "static/media/weather1.jpg": "/wheather-react/static/media/weather1.20b3c97c5d72e6de6a20.jpg",
+    "static/media/weather2.jpg": "/wheather-react/static/media/weather2.b5569e0941235597032c.jpg",
+    "index.html": "/wheather-react/index.html",
+    "main.bb9d2a0c.css.map": "/wheather-react/static/css/main.bb9d2a0c.css.map",
+    "main.9a85e541.js.map": "/wheather-react/static/js/main.9a85e541.js.map",
+    "787.d89a1af2.chunk.js.map": "/wheather-react/static/js/787.d89a1af2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9d2a0c.css",
+    "static/js/main.9a85e541.js"
+  ]
+}
